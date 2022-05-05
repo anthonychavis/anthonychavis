@@ -1,4 +1,16 @@
-### Hi there 👋
+## Hi, I'm Anthony 😉
+
+- 🔬 Currently working on [Mapty][currentProject]
+- 🌱 Learning JavaScript API
+- 🔭 Very interested in Web Accessibility, XR, & Three.js
+- 🛠️ Improving my skills with [Codewars][codewars]
+- ⚡ Fun fact: There is one video game I enjoy playing
+
+### Thanks for taking a look! 😄
+
+
+[currentProject]: https://github.com/anthonychavis/mapty
+[codewars]: https://www.codewars.com/users/gitanthony
 
 <!--
 **anthonychavis/anthonychavis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
