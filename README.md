@@ -1,7 +1,7 @@
 ## Hi, I'm Anthony 😉
 
 - 🔬 Currently working on [Mapty][currentProject]
-- 🌱 Learning JavaScript API
+- 🌱 Learning JavaScript API & getting introduced to Go
 - 🔭 Very interested in Web Accessibility, XR, & Three.js
 - 🛠️ Improving my skills with [Codewars][codewars]
 - ⚡ Fun fact: There is one video game I enjoy playing
