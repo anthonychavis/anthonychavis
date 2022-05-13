@@ -6,10 +6,10 @@
 - 🛠️ Improving my skills with [Codewars][codewars]
 - ⚡ Fun fact: There is one video game I enjoy playing
 
-## Connect with me
+### Connect with me
 - [LinkedIn][linkedin] | [Twitter][twitter]
 
-### Thanks for taking a look! 😄
+#### Thanks for taking a look! 😄
 
 
 [currentProject]: https://github.com/anthonychavis/mapty
