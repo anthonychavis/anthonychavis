@@ -1,6 +1,6 @@
 ## Hi, I'm Anthony 😉
 
-- 🔬 Currently working on [Mapty][currentProject]
+- 🔬 Currently working on *boop beep*
 - 🌱 Learning JavaScript API
 - 🔭 Very interested in Web Accessibility, XR, & Three.js
 - 🛠️ Improving my skills with [Codewars][codewars]
@@ -18,6 +18,8 @@
 [twitter]: https://twitter.com/gitanthony1
 
 <!--
+[Mapty][currentProject]
+
 **anthonychavis/anthonychavis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
