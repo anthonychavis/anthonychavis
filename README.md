@@ -1,6 +1,6 @@
 ## Hi, I'm Anthony 😉
 
-- 🔬 Currently working on *boop beep*
+- 🔬 Currently working on [modules_tooling_functional][currentProject]
 - 🌱 Learning JavaScript API
 - 🔭 Very interested in Web Accessibility, XR, & Three.js
 - 🛠️ Improving my skills with [Codewars][codewars]
@@ -12,13 +12,13 @@
 #### Thanks for taking a look! 😄
 
 
-[currentProject]: https://github.com/anthonychavis/mapty
+[currentProject]: https://github.com/anthonychavis/modules_tooling_functional
 [codewars]: https://www.codewars.com/users/gitanthony
 [linkedin]: https://www.linkedin.com/in/anthony-chavis/
 [twitter]: https://twitter.com/gitanthony1
 
 <!--
-[Mapty][currentProject]
+
 
 **anthonychavis/anthonychavis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
