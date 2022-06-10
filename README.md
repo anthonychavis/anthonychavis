@@ -1,7 +1,7 @@
 ## Hi, I'm Anthony 😉
 
 - 🔬 Currently working on [modules_tooling_functional][currentProject]
-- 🌱 Learning JavaScript API
+- 🌱 Learning ES6 Modules
 - 🔭 Very interested in Web Accessibility, XR, & Three.js
 - 🛠️ Improving my skills with [Codewars][codewars]
 - ⚡ Fun fact: There is one video game I enjoy playing
