@@ -12,7 +12,7 @@
 #### Thanks for taking a look! 😄
 
 
-[currentProject]:
+<!-- [currentProject]: -->
 [codewars]: https://www.codewars.com/users/gitanthony
 [linkedin]: https://www.linkedin.com/in/anthony-chavis/
 [twitter]: https://twitter.com/gitanthony1
