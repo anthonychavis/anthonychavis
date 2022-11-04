@@ -1,6 +1,6 @@
 ## Hi, I'm Anthony 😉
 
-- 🔬 Currently working on [modules_tooling_functional][currentProject]
+- 🔬 Currently working on [memory management][currentProject]
 - 🌱 Learning ES6 Modules
 - 🔭 Very interested in Web Accessibility, XR, & Three.js
 - 🛠️ Improving my skills with [Codewars][codewars]
@@ -12,7 +12,7 @@
 #### Thanks for taking a look! 😄
 
 
-[currentProject]: https://github.com/anthonychavis/modules_tooling_functional
+[currentProject]:
 [codewars]: https://www.codewars.com/users/gitanthony
 [linkedin]: https://www.linkedin.com/in/anthony-chavis/
 [twitter]: https://twitter.com/gitanthony1
