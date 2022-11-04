@@ -1,6 +1,6 @@
 ## Hi, I'm Anthony 😉
 
-- 🔬 Currently working on [memory management][currentProject]
+- 🔬 Currently working on memory management
 - 🌱 Learning ES6 Modules
 - 🔭 Very interested in Web Accessibility, XR, & Three.js
 - 🛠️ Improving my skills with [Codewars][codewars]
