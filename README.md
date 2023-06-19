@@ -3,7 +3,7 @@
 - 🔬 Currently working on memory management
 - 🌱 Learning 3D rendering
 - 🔭 Very interested in Web Accessibility, XR, & Three.js
-- 🛠️ Improving my skills with [Codewars][codewars]
+- 🛠️ Improving my skills with [Codewars][codewars] & [Exercism][exercism]
 - ⚡ Fun fact #1: There is one video game I enjoy playing
 - ⚡ Fun fact #2: My favorite author writes fairy tales
 
@@ -15,6 +15,7 @@
 
 <!-- [currentProject]: -->
 [codewars]: https://www.codewars.com/users/gitanthony
+[exercism]: https://exercism.org/profiles/anthonychavis
 [linkedin]: https://www.linkedin.com/in/anthony-chavis/
 [twitter]: https://twitter.com/gitanthony1
 
