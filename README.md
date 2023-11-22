@@ -1,11 +1,11 @@
 ## Hi, I'm Anthony 😉
 
-- 🔬 Currently working on memory management
-- 🌱 Learning 3D rendering
+- 🔬 Currently working on python challenges
+- 🌱 Learning Angular v17
 - 🔭 Very interested in Web Accessibility, XR, & Three.js
 - 🛠️ Improving my skills with [Codewars][codewars], [Exercism][exercism], & [Codecademy][codecademy]
-- ⚡ Fun fact #1: There is one video game I enjoy playing
-- ⚡ Fun fact #2: My favorite author writes fairy tales
+- ⚡ Fun fact #1: My favorite author writes fairy tales
+<!-- - ⚡ Fun fact #2: There is one video game I enjoy playing == retired q3 2023 -->
 
 ### Connect with me
 - [LinkedIn][linkedin] | [Twitter][twitter]
