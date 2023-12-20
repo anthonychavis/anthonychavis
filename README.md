@@ -4,13 +4,25 @@ I am a passionate software engineer and former electrician with a background in 
 
 <details open>
     <summary style='cursor: pointer;'><h2>Languages</h2></summary>
-        <img alt='HTML5' align='left' width='40px' style='margin-right: 8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-        <img alt='CSS3' align='left' width='40px' style='margin-right: 8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-        <img alt='JavaScript' align='left' width='40px' style='margin-right: 8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-        <img alt='TypeScript' align='left' width='40px' style='margin-right: 8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-        <img alt='Python' align='left' width='40px' style='margin-right: 8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-        <img alt='Node.JS' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img alt='HTML5' align='left' width='40px' style='margin-right: 8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+    <img alt='CSS3' align='left' width='40px' style='margin-right: 8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+    <img alt='JavaScript' align='left' width='40px' style='margin-right: 8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+    <img alt='TypeScript' align='left' width='40px' style='margin-right: 8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+    <img alt='Python' align='left' width='40px' style='margin-right: 8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img alt='Node.JS' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </details>
+
+<details>
+    <summary>
+        <h2>Social Media</h2>
+    </summary>
+
+[<img alt='LinkedIn' align='left' width='40px' style='margin-right: 8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg#gh-dark-mode-only" />][linkedin]
+[<img alt='LinkedIn' align='left' width='40px' style='margin-right: 8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg#gh-light-mode-only" />][linkedin]
+[<img alt='Twitter / X' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />][twitter]
+
+</details>
+
 
 - 🔬 Currently working on python challenges
 - 🌱 Learning Angular v17
@@ -18,9 +30,6 @@ I am a passionate software engineer and former electrician with a background in 
 - 🛠️ Improving my skills with [Codewars][codewars], [Exercism][exercism], & [Codecademy][codecademy]
 - ⚡ Fun fact #1: My favorite author writes fairy tales
 <!-- - ⚡ Fun fact #2: There is one video game I enjoy playing == retired q3 2023 -->
-
-### Connect with me
-- [LinkedIn][linkedin] | [Twitter][twitter]
 
 
 
