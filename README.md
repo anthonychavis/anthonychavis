@@ -3,24 +3,16 @@
 I am a passionate software engineer and former electrician with a background in biochemistry and psychology.
 
 <details open>
-    <summary style='cursor: pointer;'><h2>Languages</h2></summary>
+<summary style='cursor: pointer;'><h2>Languages</h2></summary>
 
 [<img alt='HTML5' align='left' width='40px' style='margin-right:8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />](https://github.com/anthonychavis)
-
 [<img alt='CSS3' align='left' width='40px' style='margin-right:8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />](https://github.com/anthonychavis)
-
 [<img alt='JavaScript' align='left' width='40px' style='margin-right:8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg#gh-dark-mode-only" />](https://github.com/anthonychavis#gh-dark-mode-only)
-
 [<img alt='JavaScript' align='left' width='40px' style='margin-right:8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg#gh-light-mode-only" />](https://github.com/anthonychavis#gh-light-mode-only)
-
 [<img alt='TypeScript' align='left' width='40px' style='margin-right:8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />](https://github.com/anthonychavis)
-
 [<img alt='Python' align='left' width='40px' style='margin-right:8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg#gh-dark-mode-only" />](https://github.com/anthonychavis#gh-dark-mode-only)
-
 [<img alt='Python' align='left' width='40px' style='background-color:white;margin-right:8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg#gh-light-mode-only" />](https://github.com/anthonychavis#gh-light-mode-only)
-
 [<img alt='Node.JS' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg#gh-dark-mode-only" />](https://github.com/anthonychavis#gh-dark-mode-only)
-
 [<img alt='Node.JS' width='40px' style='background-color:black;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg#gh-light-mode-only" />](https://github.com/anthonychavis#gh-light-mode-only)
 
 </details>
