@@ -17,11 +17,12 @@ I am a passionate software engineer and former electrician with a background in 
         <h2>Social Media</h2>
     </summary>
 
-[<img alt='LinkedIn' align='left' width='40px' style='margin-right: 8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg#gh-dark-mode-only" />][linkedin]
-[<img alt='LinkedIn' align='left' width='40px' style='margin-right: 8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg#gh-light-mode-only" />][linkedin]
+[<img alt='LinkedIn' align='left' width='40px' style='margin-right: 8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg#gh-dark-mode-only" />](https://www.linkedin.com/in/anthony-chavis/#gh-dark-mode-only)
+[<img alt='LinkedIn' align='left' width='40px' style='margin-right: 8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg#gh-light-mode-only" />](https://www.linkedin.com/in/anthony-chavis/#gh-light-mode-only)
 [<img alt='Twitter / X' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />][twitter]
 
 </details>
+
 
 
 - 🔬 Currently working on python challenges
