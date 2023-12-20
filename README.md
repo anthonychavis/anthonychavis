@@ -7,15 +7,13 @@ I am a passionate software engineer and former electrician with a background in 
 
 <img alt='HTML5' align='left' width='40px' style='margin-right: 8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img alt='CSS3' align='left' width='40px' style='margin-right: 8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-
 [<img alt='JavaScript' align='left' width='40px' style='margin-right: 8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg#gh-dark-mode-only" />](https://github.com/anthonychavis#gh-dark-mode-only)
 [<img alt='JavaScript' align='left' width='40px' style='margin-right: 8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg#gh-light-mode-only" />](https://github.com/anthonychavis#gh-light-mode-only)
 <img alt='TypeScript' align='left' width='40px' style='margin-right: 8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-
 [<img alt='Python' align='left' width='40px' style='margin-right:8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg#gh-dark-mode-only" />](https://github.com/anthonychavis#gh-dark-mode-only)
 [<img alt='Python' align='left' width='40px' style='background-color:white;border-radius:5px;margin-right:8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg#gh-light-mode-only" />](https://github.com/anthonychavis#gh-light-mode-only)
 [<img alt='Node.JS' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg#gh-dark-mode-only" />](https://github.com/anthonychavis#gh-dark-mode-only)
-[<img alt='Node.JS' width='40px' style='background-color:black;border-radius:5px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg#gh-light-mode-only" />]
+[<img alt='Node.JS' width='40px' style='background-color:black;border-radius:5px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg#gh-light-mode-only" />](https://github.com/anthonychavis#gh-light-mode-only)
 
 </details>
 
