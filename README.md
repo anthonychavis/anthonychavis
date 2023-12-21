@@ -5,19 +5,17 @@ I am a passionate software engineer and former electrician with a background in 
 <details open>
 <summary style='cursor: pointer;'><h2>Languages</h2></summary>
 
-<!-- <img alt='HTML5' title='HTML5' align='left' width='40px' style='margin-top: 2px;margin-right: 4px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> -->
 <img alt='HTML5' title='HTML5' align='left' width='40px' style='margin-top: 2px;margin-right: 4px;' src="./assets/html_dark-mode.svg" />
-<!-- <img alt='CSS3' title='CSS3' align='left' width='40px' style='margin-top: 2px;margin-right: 4px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> -->
 <img alt='CSS3' title='CSS3' align='left' width='40px' style='margin-top: 2px;margin-right: 4px;' src="./assets/css_dark-mode.svg" />
-<img alt='JavaScript' title='JavaScript' align='left' width='40px' style='margin-top: 2px;margin-right: 4px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg#gh-light-mode-only" />
+<img alt='JavaScript' title='JavaScript' align='left' width='40px' style='margin-top: 2px;margin-right: 4px;' src="./assets/js_light.svg#gh-light-mode-only" />
 <img alt='JavaScript' title='JavaScript' align='left' width='40px' style='margin-top: 2px;margin-right: 4px;' src="./assets/javascript_dark-mode.svg#gh-dark-mode-only" />
-<img alt='TypeScript' title='TypeScript' align='left' width='40px' style='margin-top: 2px;margin-right: 4px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg#gh-light-mode-only" />
+<img alt='TypeScript' title='TypeScript' align='left' width='40px' style='margin-top: 2px;margin-right: 4px;' src="./assets/ts_light.svg#gh-light-mode-only" />
 <img alt='TypeScript' title='TypeScript' align='left' width='40px' style='margin-top:2px;margin-right:4px;' src='./assets/typescript_dark-mode.svg#gh-dark-mode-only'>
-<img alt='Python' title='Python' align='left' width='40px' style='margin-top: 2px;margin-right: 4px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg#gh-light-mode-only" />
+<img alt='Python' title='Python' align='left' width='40px' style='margin-top: 2px;margin-right: 4px;' src="./assets/python_light.svg#gh-light-mode-only" />
 <img alt='Python' title='Python' align='left' width='40px' style='margin-top: 2px;margin-right: 4px;' src="./assets/python_dark-mode.svg#gh-dark-mode-only" />
-<img alt='Node.JS' title='Node.JS' align='left' width='40px' style='margin-top: 2px;margin-right: 4px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg#gh-light-mode-only" />
+<img alt='Node.JS' title='Node.JS' align='left' width='40px' style='margin-top: 2px;margin-right: 4px;' src="./assets/node_light.svg#gh-light-mode-only" />
 <img alt='Node.JS' title='Node.JS' align='left' width='40px' style='margin-top: 2px;margin-right: 4px;' src='./assets/node_dark-mode.svg#gh-dark-mode-only' />
-<img alt='Markdown' title='Markdown' width='40px' style='margin-top: 2px;margin-right: 4px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg#gh-light-mode-only' />
+<img alt='Markdown' title='Markdown' width='40px' style='margin-top: 2px;margin-right: 4px;' src='./assets/markdown_light.svg#gh-light-mode-only' />
 <img alt='Markdown' title='Markdown' width='40px' style='margin-top: 2px;margin-right: 4px;' src='./assets/markdown_dark-mode.svg#gh-dark-mode-only' />
 </details>
 
