@@ -3,7 +3,7 @@
 I am a passionate software engineer and former electrician with a background in biochemistry and psychology.
 
 <details open>
-<summary style='cursor:pointer;'><h2>Languages</h2></summary>
+<summary style='cursor:pointer;'><h2>Toys of the Trade</h2></summary>
 
 <img alt='HTML5' title='HTML5' align='left' width='40px' style='margin-top: 2px;margin-right: 4px;' src="./assets/html_dark-mode.svg" />
 <img alt='CSS3' title='CSS3' align='left' width='40px' style='margin-top: 2px;margin-right: 4px;' src="./assets/css_dark-mode.svg" />
@@ -28,7 +28,9 @@ I am a passionate software engineer and former electrician with a background in 
 
 [<img alt='LinkedIn' title='LinkedIn' align='left' width='40px' style='margin-top: 2px;margin-right: 4px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg#gh-dark-mode-only" />](https://www.linkedin.com/in/anthony-chavis/#gh-dark-mode-only)
 [<img alt='LinkedIn' title='LinkedIn' align='left' width='40px' style='margin-top: 2px;margin-right: 4px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg#gh-light-mode-only" />](https://www.linkedin.com/in/anthony-chavis/#gh-light-mode-only)
-[<img alt='Twitter / X' title='Twitter' width='40px' style='margin-top: 2px;margin-right: 4px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />][twitter]
+[<img alt='X, formerly known as Twitter' title='X, formerly known as Twitter' width='40px' style='margin-top: 2px;margin-right: 4px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />][twitter]
+
+<!-- replace w/ X icon !! -->
 
 </details>
 
