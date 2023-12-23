@@ -37,10 +37,14 @@ I am a passionate software engineer and former electrician with a background in 
 <img alt='Node.JS' title='Node.JS' align='left' width='40px' style='padding:0px;margin-top:5px;margin-right:5px;margin-bottom:0px;margin-left:5px;' src='./assets/node_dark-mode.svg#gh-dark-mode-only' />
 </li>
 <li style='padding:0px;margin:0px;'>
-<img alt='Markdown' title='Markdown' width='40px' style='padding:0px;margin-top:5px;margin-right:5px;margin-bottom:0px;margin-left:5px;' src='./assets/markdown_light.svg#gh-light-mode-only' />
+<img alt='Markdown' title='Markdown' align='left' width='40px' style='padding:0px;margin-top:5px;margin-right:5px;margin-bottom:0px;margin-left:5px;' src='./assets/markdown_light.svg#gh-light-mode-only' />
 </li>
 <li style='padding:0px;margin:0px;'>
-<img alt='Markdown' title='Markdown' width='40px' style='padding:0px;margin-top:5px;margin-right:5px;margin-bottom:0px;margin-left:5px;' src='./assets/markdown_dark-mode.svg#gh-dark-mode-only' />
+<img alt='Markdown' title='Markdown' align='left' width='40px' style='padding:0px;margin-top:5px;margin-right:5px;margin-bottom:0px;margin-left:5px;' src='./assets/markdown_dark-mode.svg#gh-dark-mode-only' />
+</li>
+</li style='padding:0px;margin:0px;'>
+<img alt='Prettier' title='Prettier' width='40px' style='padding:0px;margin-top:5px;margin-right:5px;margin-bottom:0px;margin-left:5px;' src='https://techstack-generator.vercel.app/prettier-icon.svg#gh-dark-mode-only'>
+<img alt='Prettier' title='Prettier' width='40px' style='padding:0px;margin-top:5px;margin-right:5px;margin-bottom:0px;margin-left:5px;' src='https://techstack-generator.vercel.app/prettier-icon.svg#gh-light-mode-only'>
 </li>
 </ul>
 <!-- <img alt='HTML5' title='HTML5' align='left' width='40px' style='padding:0px;margin-top:2px;margin-right:4px;margin-bottom:0px;margin-left:5px;' src="./assets/html_dark-mode.svg" />
@@ -93,7 +97,8 @@ I am a passionate software engineer and former electrician with a background in 
 
 <!-- Resources:
 Icons:
-- https://devicon.dev/ -->
+- https://devicon.dev/
+- https://techstack-generator.vercel.app -->
 
 <!--
 
