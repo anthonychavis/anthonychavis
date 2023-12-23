@@ -17,15 +17,14 @@ I am a passionate software engineer and former electrician with a background in 
 <img alt='Node.JS' title='Node.JS' align='left' width='40px' style='padding:0px;margin-top:5px;margin-right:5px;margin-bottom:0px;margin-left:5px;' src='./assets/node_dark-mode.svg#gh-dark-mode-only' />
 <img alt='Markdown' title='Markdown' align='left' width='40px' style='padding:0px;margin-top:5px;margin-right:5px;margin-bottom:0px;margin-left:5px;' src='./assets/markdown_light.svg#gh-light-mode-only' />
 <img alt='Markdown' title='Markdown' align='left' width='40px' style='padding:0px;margin-top:5px;margin-right:5px;margin-bottom:0px;margin-left:5px;' src='./assets/markdown_dark-mode.svg#gh-dark-mode-only' />
-
-<img alt='Prettier' title='Prettier' width='40px' style='padding:0px;margin-top:5px;margin-right:5px;margin-bottom:0px;margin-left:5px;' src='https://techstack-generator.vercel.app/prettier-icon.svg'>
+<img alt='Prettier' title='Prettier' align='left' width='40px' style='padding:0px;margin-top:5px;margin-right:5px;margin-bottom:0px;margin-left:5px;' src='https://techstack-generator.vercel.app/prettier-icon.svg'>
 
 </details>
 
 <br />
 <br />
 
-<details style='cursor:pointer;'>
+<details style='clear:left;cursor:pointer;'>
 <summary><h2>Social Media</h2></summary>
 
 [<img alt='LinkedIn' title='LinkedIn' align='left' width='40px' style='margin-top: 2px;margin-right: 5px;margin-left:5px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg#gh-dark-mode-only" />](https://www.linkedin.com/in/anthony-chavis/#gh-dark-mode-only)
