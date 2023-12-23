@@ -5,60 +5,20 @@ I am a passionate software engineer and former electrician with a background in 
 <details open>
 <summary style='cursor:pointer;'><h2>Toys of the Trade</h2></summary>
 
-<ul style='list-style-type:none;padding:0px;margin:0px;'>
-<li style='padding:0px;margin:0px;'>
 <img alt='HTML5' title='HTML5' align='left' width='40px' style='padding:0px;margin-top:5px;margin-right:5px;margin-bottom:0px;margin-left:5px;' src="./assets/html_dark-mode.svg" />
-</li>
-<li style='padding:0px;margin:0px;'>
 <img alt='CSS3' title='CSS3' align='left' width='40px' style='padding:0px;margin-top:5px;margin-right:5px;margin-bottom:0px;margin-left:5px;' src="./assets/css_dark-mode.svg" />
-</li>
-<li style='padding:0px;margin:0px;'>
 <img alt='JavaScript' title='JavaScript' align='left' width='40px' style='padding:0px;margin-top:5px;margin-right:5px;margin-bottom:0px;margin-left:5px;' src="./assets/js_light.svg#gh-light-mode-only" />
-</li>
-<li style='padding:0px;margin:0px;'>
 <img alt='JavaScript' title='JavaScript' align='left' width='40px' style='padding:0px;margin-top:5px;margin-right:5px;margin-bottom:0px;margin-left:5px;' src="./assets/javascript_dark-mode.svg#gh-dark-mode-only" />
-</li>
-<li style='padding:0px;margin:0px;'>
 <img alt='TypeScript' title='TypeScript' align='left' width='40px' style='padding:0px;margin-top:5px;margin-right:5px;margin-bottom:0px;margin-left:5px;' src="./assets/ts_light.svg#gh-light-mode-only" />
-</li>
-<li style='padding:0px;margin:0px;'>
 <img alt='TypeScript' title='TypeScript' align='left' width='40px' style='padding:0px;margin-top:5px;margin-right:5px;margin-bottom:0px;margin-left:5px;' src='./assets/typescript_dark-mode.svg#gh-dark-mode-only'>
-</li>
-<li style='padding:0px;margin:0px;'>
 <img alt='Python' title='Python' align='left' width='40px' style='padding:0px;margin-top:5px;margin-right:5px;margin-bottom:0px;margin-left:5px;' src="./assets/python_light.svg#gh-light-mode-only" />
-</li>
-<li style='padding:0px;margin:0px;'>
 <img alt='Python' title='Python' align='left' width='40px' style='padding:0px;margin-top:5px;margin-right:5px;margin-bottom:0px;margin-left:5px;' src="./assets/python_dark-mode.svg#gh-dark-mode-only" />
-</li>
-<li style='padding:0px;margin:0px;'>
 <img alt='Node.JS' title='Node.JS' align='left' width='40px' style='padding:0px;margin-top:5px;margin-right:5px;margin-bottom:0px;margin-left:5px;' src="./assets/node_light.svg#gh-light-mode-only" />
-</li>
-<li style='padding:0px;margin:0px;'>
 <img alt='Node.JS' title='Node.JS' align='left' width='40px' style='padding:0px;margin-top:5px;margin-right:5px;margin-bottom:0px;margin-left:5px;' src='./assets/node_dark-mode.svg#gh-dark-mode-only' />
-</li>
-<li style='padding:0px;margin:0px;'>
 <img alt='Markdown' title='Markdown' align='left' width='40px' style='padding:0px;margin-top:5px;margin-right:5px;margin-bottom:0px;margin-left:5px;' src='./assets/markdown_light.svg#gh-light-mode-only' />
-</li>
-<li style='padding:0px;margin:0px;'>
 <img alt='Markdown' title='Markdown' align='left' width='40px' style='padding:0px;margin-top:5px;margin-right:5px;margin-bottom:0px;margin-left:5px;' src='./assets/markdown_dark-mode.svg#gh-dark-mode-only' />
-</li>
-</li style='padding:0px;margin:0px;'>
-<img alt='Prettier' title='Prettier' width='40px' style='padding:0px;margin-top:5px;margin-right:5px;margin-bottom:0px;margin-left:5px;' src='https://techstack-generator.vercel.app/prettier-icon.svg#gh-dark-mode-only'>
-<img alt='Prettier' title='Prettier' width='40px' style='padding:0px;margin-top:5px;margin-right:5px;margin-bottom:0px;margin-left:5px;' src='https://techstack-generator.vercel.app/prettier-icon.svg#gh-light-mode-only'>
-</li>
-</ul>
-<!-- <img alt='HTML5' title='HTML5' align='left' width='40px' style='padding:0px;margin-top:2px;margin-right:4px;margin-bottom:0px;margin-left:5px;' src="./assets/html_dark-mode.svg" />
-<img alt='CSS3' title='CSS3' align='left' width='40px' style='padding:0px;margin-top:2px;margin-right:4px;margin-bottom:0px;margin-left:5px;' src="./assets/css_dark-mode.svg" />
-<img alt='JavaScript' title='JavaScript' align='left' width='40px' style='padding:0px;margin-top:2px;margin-right:4px;margin-bottom:0px;margin-left:5px;' src="./assets/js_light.svg#gh-light-mode-only" />
-<img alt='JavaScript' title='JavaScript' align='left' width='40px' style='padding:0px;margin-top:2px;margin-right:4px;margin-bottom:0px;margin-left:5px;' src="./assets/javascript_dark-mode.svg#gh-dark-mode-only" />
-<img alt='TypeScript' title='TypeScript' align='left' width='40px' style='padding:0px;margin-top:2px;margin-right:4px;margin-bottom:0px;margin-left:5px;' src="./assets/ts_light.svg#gh-light-mode-only" />
-<img alt='TypeScript' title='TypeScript' align='left' width='40px' style='padding:0px;margin-top:2px;margin-right:4px;margin-bottom:0px;margin-left:5px;' src='./assets/typescript_dark-mode.svg#gh-dark-mode-only'>
-<img alt='Python' title='Python' align='left' width='40px' style='padding:0px;margin-top:2px;margin-right:4px;margin-bottom:0px;margin-left:5px;' src="./assets/python_light.svg#gh-light-mode-only" />
-<img alt='Python' title='Python' align='left' width='40px' style='padding:0px;margin-top:2px;margin-right:4px;margin-bottom:0px;margin-left:5px;' src="./assets/python_dark-mode.svg#gh-dark-mode-only" />
-<img alt='Node.JS' title='Node.JS' align='left' width='40px' style='padding:0px;margin-top:2px;margin-right:4px;margin-bottom:0px;margin-left:5px;' src="./assets/node_light.svg#gh-light-mode-only" />
-<img alt='Node.JS' title='Node.JS' align='left' width='40px' style='padding:0px;margin-top:2px;margin-right:4px;margin-bottom:0px;margin-left:5px;' src='./assets/node_dark-mode.svg#gh-dark-mode-only' />
-<img alt='Markdown' title='Markdown' width='40px' style='padding:0px;margin-top:2px;margin-right:4px;margin-bottom:0px;margin-left:5px;' src='./assets/markdown_light.svg#gh-light-mode-only' />
-<img alt='Markdown' title='Markdown' width='40px' style='padding:0px;margin-top:2px;margin-right:4px;margin-bottom:0px;margin-left:5px;' src='./assets/markdown_dark-mode.svg#gh-dark-mode-only' /> -->
+
+<img alt='Prettier' title='Prettier' width='40px' style='padding:0px;margin-top:5px;margin-right:5px;margin-bottom:0px;margin-left:5px;' src='https://techstack-generator.vercel.app/prettier-icon.svg'>
 
 </details>
 
