@@ -18,7 +18,7 @@ I am a passionate software engineer and former electrician with a background in 
 <img alt='Markdown' title='Markdown' align='left' width='40px' style='padding-top:10px;padding-right:20px;margin:0px;' src='./assets/markdown_light.svg#gh-light-mode-only' />
 <img alt='Markdown' title='Markdown' align='left' width='40px' style='padding-top:10px;padding-right:20px;margin:0px;' src='./assets/markdown_dark-mode.svg#gh-dark-mode-only' />
 <img alt='Prettier' title='Prettier' align='left' width='40px' style='padding-top:10px;padding-right:20px;margin:0px;' src='https://techstack-generator.vercel.app/prettier-icon.svg'>
-<img alt='Bash' title='Bash' width='40px' style='padding-top:10px;padding-right:20px;margin:0px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg#gh-light-mode-only" />
+<img alt='Bash' title='Bash' width='40px' style='padding-top:10px;padding-right:20px;margin:0px;' src="./assets/bash_light.svg#gh-light-mode-only" />
 <img alt='Bash' title='Bash' width='40px' style='padding-top:10px;padding-right:20px;margin:0px;' src="./assets/bash_dark.svg#gh-dark-mode-only" />
 
 </details>
