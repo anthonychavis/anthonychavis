@@ -43,7 +43,7 @@ I am a passionate software engineer and former electrician with a background in 
 - 🔬 Currently working on python challenges
 - 🌱 Learning Angular v17
 - 🔭 Very interested in Web Accessibility, XR, & Three.js
-- 🛠️ Improving my skills with [Codewars][codewars], [Exercism][exercism], & [Codecademy][codecademy]
+- 🛠️ Improving my skills with [Codecademy][codecademy], [Codewars][codewars], [LeetCode][leetcode], & [Exercism][exercism].
 - ⚡ Fun fact #1: My favorite author writes fairy tales
 <!-- - ⚡ Fun fact #2: There is one video game I enjoy playing == retired q3 2023 -->
 
@@ -52,6 +52,7 @@ I am a passionate software engineer and former electrician with a background in 
 [codecademy]: https://www.codecademy.com/profiles/AnthonyCh.
 [codewars]: https://www.codewars.com/users/gitanthony
 [exercism]: https://exercism.org/profiles/anthonychavis
+[leetcode]: https://leetcode.com/anthonychavis/
 [twitter]: https://twitter.com/gitanthony1
 
 <!-- [linkedin]: https://www.linkedin.com/in/anthony-chavis/ -->
