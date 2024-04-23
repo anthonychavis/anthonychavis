@@ -40,11 +40,20 @@ I am a passionate software engineer and former electrician with a background in 
 <br />
 <br />
 
-- 🔬 Currently working on python challenges
-- 🌱 Learning Angular v17
-- 🔭 Very interested in Web Accessibility, XR, & Three.js
-- 🛠️ Improving my skills with [Codecademy][codecademy], [Codewars][codewars], [LeetCode][leetcode], & [Exercism][exercism].
-- ⚡ Fun fact #1: My favorite author writes fairy tales
+<details style='cursor:pointer;'>
+<summary><h2>Educational Resources</h2></summary>
+
+- [Codecademy][codecademy]
+- [Microsoft][microsoft]
+- [Codewars][codewars]
+- [Exercism][exercism]
+- [LeetCode][leetcode]
+
+<!-- - 🔬 Currently working on python challenges -->
+<!-- - 🌱 Learning Angular v17 -->
+<!-- - 🔭 Very interested in Web Accessibility, XR, & Three.js -->
+<!-- - 🛠️ Improving my skills with  -->
+<!-- - ⚡ Fun fact #1: My favorite author writes fairy tales -->
 <!-- - ⚡ Fun fact #2: There is one video game I enjoy playing == retired q3 2023 -->
 
 <!-- [currentProject]: -->
@@ -53,6 +62,7 @@ I am a passionate software engineer and former electrician with a background in 
 [codewars]: https://www.codewars.com/users/gitanthony
 [exercism]: https://exercism.org/profiles/anthonychavis
 [leetcode]: https://leetcode.com/anthonychavis/
+[microsoft]: https://learn.microsoft.com/en-us/users/anthony-1663/
 [twitter]: https://twitter.com/gitanthony1
 
 <!-- [linkedin]: https://www.linkedin.com/in/anthony-chavis/ -->
