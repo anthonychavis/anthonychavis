@@ -49,6 +49,8 @@ I am a passionate software engineer and former electrician with a background in 
 - [Exercism][exercism]
 - [LeetCode][leetcode]
 
+</details>
+
 <!-- - 🔬 Currently working on python challenges -->
 <!-- - 🌱 Learning Angular v17 -->
 <!-- - 🔭 Very interested in Web Accessibility, XR, & Three.js -->
