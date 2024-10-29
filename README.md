@@ -1,25 +1,66 @@
-## Anthony Chavis
+# Anthony Chavis
 
 I am a passionate software engineer and former electrician with a background in biochemistry and psychology.
 
-<details open>
+## Current Project(s):
+
+<details>
+
+<summary>
+<h3>Rabbit</a></h3>
+</summary>
+
+- [Rabbit repo]("https://github.com/anthonychavis/my-arduino-repo/tree/main/Theatre/Rabbit") _coming soon_
+- **Tech**
+    - Arduino
+    - C++
+    - Servo
+        - _9g_
+        - _180 deg_
+    - Circuit Playground Express
+        - _& other boards_
+
+</details>
+
+<br>
+<br>
+
+## Recent Project(s):
+
+- _on the way_
+
+<br>
+<br>
+
+<details>
 <summary style='cursor:pointer;'><h2>Toys of the Trade</h2></summary>
 
+<img alt='VS Code' title='VS Code' align='left' width='40px' style='padding-top:10px;padding-right:20px;margin:0px;' src="./assets/vscode.svg" />
+<!-- <img alt='VS Code' title='VS Code' align='left' width='40px' style='padding-top:10px;padding-right:20px;margin:0px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> -->
 <img alt='HTML5' title='HTML5' align='left' width='40px' style='padding-top:10px;padding-right:20px;margin:0px;' src="./assets/html_dark-mode.svg" />
 <img alt='CSS3' title='CSS3' align='left' width='40px' style='padding-top:10px;padding-right:20px;margin:0px;' src="./assets/css_dark-mode.svg" />
+<img alt='Markdown' title='Markdown' align='left' width='40px' style='padding-top:10px;padding-right:20px;margin:0px;' src='./assets/markdown_light.svg#gh-light-mode-only' />
+<img alt='Markdown' title='Markdown' align='left' width='40px' style='padding-top:10px;padding-right:20px;margin:0px;' src='./assets/markdown_dark-mode.svg#gh-dark-mode-only' />
+<img alt='Sass' title='Sass' align='left' width='40px' style='padding-top:10px;padding-right:20px;margin:0px;' src='./assets/sass.svg' />
+<!-- <img alt='Sass' title='Sass' align='left' width='40px' style='padding-top:10px;padding-right:20px;margin:0px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" /> -->
 <img alt='JavaScript' title='JavaScript' align='left' width='40px' style='padding-top:10px;padding-right:20px;margin:0px;' src="./assets/js_light.svg#gh-light-mode-only" />
 <img alt='JavaScript' title='JavaScript' align='left' width='40px' style='padding-top:10px;padding-right:20px;margin:0px;' src="./assets/javascript_dark-mode.svg#gh-dark-mode-only" />
 <img alt='TypeScript' title='TypeScript' align='left' width='40px' style='padding-top:10px;padding-right:20px;margin:0px;' src="./assets/ts_light.svg#gh-light-mode-only" />
 <img alt='TypeScript' title='TypeScript' align='left' width='40px' style='padding-top:10px;padding-right:20px;margin:0px;' src='./assets/typescript_dark-mode.svg#gh-dark-mode-only'>
 <img alt='Python' title='Python' align='left' width='40px' style='padding-top:10px;padding-right:20px;margin:0px;' src="./assets/python_light.svg#gh-light-mode-only" />
 <img alt='Python' title='Python' align='left' width='40px' style='padding-top:10px;padding-right:20px;margin:0px;' src="./assets/python_dark-mode.svg#gh-dark-mode-only" />
-<img alt='Node.JS' title='Node.JS' align='left' width='40px' style='padding-top:10px;padding-right:20px;margin:0px;' src="./assets/node_light.svg#gh-light-mode-only" />
-<img alt='Node.JS' title='Node.JS' align='left' width='40px' style='padding-top:10px;padding-right:20px;margin:0px;' src='./assets/node_dark-mode.svg#gh-dark-mode-only' />
-<img alt='Markdown' title='Markdown' align='left' width='40px' style='padding-top:10px;padding-right:20px;margin:0px;' src='./assets/markdown_light.svg#gh-light-mode-only' />
-<img alt='Markdown' title='Markdown' align='left' width='40px' style='padding-top:10px;padding-right:20px;margin:0px;' src='./assets/markdown_dark-mode.svg#gh-dark-mode-only' />
-<img alt='Prettier' title='Prettier' align='left' width='40px' style='padding-top:10px;padding-right:20px;margin:0px;' src='https://techstack-generator.vercel.app/prettier-icon.svg'>
-<img alt='Bash' title='Bash' width='40px' style='padding-top:10px;padding-right:20px;margin:0px;' src="./assets/bash_light.svg#gh-light-mode-only" />
-<img alt='Bash' title='Bash' width='40px' style='padding-top:10px;padding-right:20px;margin:0px;' src="./assets/bash_dark.svg#gh-dark-mode-only" />
+<img alt='Arduino' title='Arduino' align='left' width='40px' style='padding-top:10px;padding-right:20px;margin:0px;' src="./assets/arduino.svg" />
+<img alt='C++' title='C++' align='left' width='40px' style='padding-top:10px;padding-right:20px;margin:0px;' src="./assets/cpp.svg" />
+<img alt='HUGO' title='HUGO' align='left' width='40px' style='padding-top:10px;padding-right:20px;margin:0px;' src='./assets/hugo.svg' />
+<!-- <img alt='HUGO' title='HUGO' align='left' width='40px' style='padding-top:10px;padding-right:20px;margin:0px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hugo/hugo-original.svg" /> -->
+<img alt='Bash' title='Bash' align='left' width='40px' style='padding-top:10px;padding-right:20px;margin:0px;' src="./assets/bash_light.svg#gh-light-mode-only" />
+<img alt='Bash' title='Bash' align='left' width='40px' style='padding-top:10px;padding-right:20px;margin:0px;' src="./assets/bash_dark.svg#gh-dark-mode-only" />
+<img alt='Node.JS' title='Node.JS' width='40px' style='padding-top:10px;padding-right:20px;margin:0px;' src="./assets/node_light.svg#gh-light-mode-only" />
+<img alt='Node.JS' title='Node.JS' width='40px' style='padding-top:10px;padding-right:20px;margin:0px;' src='./assets/node_dark-mode.svg#gh-dark-mode-only' />
+<!-- <img alt='Linux' title='Linux' align='left' width='40px' style='padding-top:10px;padding-right:20px;margin:0px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /> -->
+<!-- <img alt='WordPress' title='WordPress' width='40px' style='padding-top:10px;padding-right:20px;margin:0px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" /> -->
+<!-- <img alt='Prettier' title='Prettier' width='40px' style='padding-top:10px;padding-right:20px;margin:0px;' src='https://techstack-generator.vercel.app/prettier-icon.svg'> -->
+
 
 </details>
 
@@ -33,7 +74,6 @@ I am a passionate software engineer and former electrician with a background in 
 [<img alt='LinkedIn' title='LinkedIn' align='left' width='40px' style='padding-top:10px;padding-right:20px;margin:0px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg#gh-light-mode-only" />](https://www.linkedin.com/in/anthony-chavis/#gh-light-mode-only)
 [<img alt='X, formerly known as Twitter' title='X, formerly known as Twitter' width='40px' style='padding-top:10px;padding-right:20px;margin:0px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />][twitter]
 
-<!-- replace w/ X icon !! -->
 
 </details>
 
@@ -51,14 +91,6 @@ I am a passionate software engineer and former electrician with a background in 
 
 </details>
 
-<!-- - 🔬 Currently working on python challenges -->
-<!-- - 🌱 Learning Angular v17 -->
-<!-- - 🔭 Very interested in Web Accessibility, XR, & Three.js -->
-<!-- - 🛠️ Improving my skills with  -->
-<!-- - ⚡ Fun fact #1: My favorite author writes fairy tales -->
-<!-- - ⚡ Fun fact #2: There is one video game I enjoy playing == retired q3 2023 -->
-
-<!-- [currentProject]: -->
 
 [codecademy]: https://www.codecademy.com/profiles/AnthonyCh.
 [codewars]: https://www.codewars.com/users/gitanthony
@@ -73,20 +105,3 @@ I am a passionate software engineer and former electrician with a background in 
 Icons:
 - https://devicon.dev/
 - https://techstack-generator.vercel.app -->
-
-<!--
-
-
-**anthonychavis/anthonychavis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
