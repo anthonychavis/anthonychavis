@@ -9,8 +9,8 @@ I am a passionate software engineer and former electrician with a background in 
 <summary>
 <h3>Rabbit</a></h3>
 </summary>
-
-- [Rabbit repo]("https://github.com/anthonychavis/my-arduino-repo/tree/main/Theatre/Rabbit") _coming soon_
+                
+- [Rabbit repo](https://github.com/anthonychavis/my-arduino-repo/tree/main/Theatre/Rabbit)
 - **Tech**
     - Arduino
     - C++
@@ -22,7 +22,6 @@ I am a passionate software engineer and former electrician with a background in 
 
 </details>
 
-<br>
 <br>
 
 ## Recent Project(s):
