@@ -115,11 +115,12 @@ _NOTE: the following URLs are to external websites_
 </details>
 
 
-[codecademy]: https://www.codecademy.com/profiles/AnthonyCh.
-[codewars]: https://www.codewars.com/users/gitanthony
-[exercism]: https://exercism.org/profiles/anthonychavis
-[leetcode]: https://leetcode.com/anthonychavis/
-[microsoft]: https://learn.microsoft.com/en-us/users/anthony-1663/
+[codecademy]: https://www.codecademy.com/profiles/AnthonyCh. "external URL to Anthony's Codecademy profile"
+[codewars]: https://www.codewars.com/users/gitanthony "external URL to Anthony's Codewars profile"
+[exercism]: https://exercism.org/profiles/anthonychavis "external URL to Anthony's Exercism profile"
+[leetcode]: https://leetcode.com/anthonychavis/ "external URL to Anthony's LeetCode profile"
+[microsoft]: https://learn.microsoft.com/en-us/users/anthony-1663/ "external URL to Anthony's Microsoft Learn profile"
+
 [twitter]: https://twitter.com/gitanthony1
 
 <!-- [linkedin]: https://www.linkedin.com/in/anthony-chavis/ -->
