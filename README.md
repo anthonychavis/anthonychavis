@@ -5,12 +5,11 @@ I am a passionate software engineer and former electrician with a background in 
 ## Current Project(s):
 
 <details>
-
-<summary>
-<h3>Rabbit</a></h3>
+<summary style='cursor:pointer;'>
+<h3>Rabbit</h3>
 </summary>
                 
-- [Rabbit repo](https://github.com/anthonychavis/my-arduino-repo/tree/main/Theatre/Rabbit)
+- [Rabbit GitHub repo](https://github.com/anthonychavis/my-arduino-repo/tree/main/Theatre/Rabbit "URL to the Rabbit GitHub repo")
 - **Tech**
     - Arduino
     - C++
@@ -20,19 +19,36 @@ I am a passionate software engineer and former electrician with a background in 
     - Circuit Playground Express
         - _& other boards_
 
+
 </details>
 
 <br>
 
 ## Recent Project(s):
 
-- _on the way_
+<details>
+<summary style='cursor:pointer;'>
+<h3>Event Schedule</h3>
+</summary>
+
+- [Event Schedule website](https://artscapeschedule.netlify.app/ "external URL to the Event Schedule website") (_URL to external web page_)
+- **Tech**
+    - HUGO
+        - _with my own HUGO "theme"_
+    - Markdown
+    - HTML
+    - CSS
+
+
+</details>
 
 <br>
 <br>
 
 <details>
-<summary style='cursor:pointer;'><h2>Toys of the Trade</h2></summary>
+<summary style='cursor:pointer;'>
+<h2>Some Tech I've Used</h2>
+</summary>
 
 <img alt='VS Code' title='VS Code' align='left' width='40px' style='padding-top:10px;padding-right:20px;margin:0px;' src="./assets/vscode.svg" />
 <!-- <img alt='VS Code' title='VS Code' align='left' width='40px' style='padding-top:10px;padding-right:20px;margin:0px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> -->
@@ -67,11 +83,15 @@ I am a passionate software engineer and former electrician with a background in 
 <br />
 
 <details style='cursor:pointer;'>
-<summary><h2>Social Media</h2></summary>
+<summary>
+<h2>Social Media</h2>
+</summary>
 
-[<img alt='LinkedIn' title='LinkedIn' align='left' width='40px' style='padding-top:10px;padding-right:20px;margin:0px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg#gh-dark-mode-only" />](https://www.linkedin.com/in/anthony-chavis/#gh-dark-mode-only)
-[<img alt='LinkedIn' title='LinkedIn' align='left' width='40px' style='padding-top:10px;padding-right:20px;margin:0px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg#gh-light-mode-only" />](https://www.linkedin.com/in/anthony-chavis/#gh-light-mode-only)
-[<img alt='X, formerly known as Twitter' title='X, formerly known as Twitter' width='40px' style='padding-top:10px;padding-right:20px;margin:0px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />][twitter]
+_NOTE: the following URLs are to external websites_
+
+[<img alt='LinkedIn' title='external URL to LinkedIn' align='left' width='40px' style='padding-top:10px;padding-right:20px;margin:0px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg#gh-dark-mode-only" />](https://www.linkedin.com/in/anthony-chavis/#gh-dark-mode-only)
+[<img alt='LinkedIn' title='external URL to LinkedIn' align='left' width='40px' style='padding-top:10px;padding-right:20px;margin:0px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg#gh-light-mode-only" />](https://www.linkedin.com/in/anthony-chavis/#gh-light-mode-only)
+[<img alt='X, formerly known as Twitter' title='external URL to X, formerly known as Twitter' width='40px' style='padding-top:10px;padding-right:20px;margin:0px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />][twitter]
 
 
 </details>
@@ -80,7 +100,11 @@ I am a passionate software engineer and former electrician with a background in 
 <br />
 
 <details style='cursor:pointer;'>
-<summary><h2>Educational Resources</h2></summary>
+<summary>
+<h2>Educational Resources</h2>
+</summary>
+
+_NOTE: the following URLs are to external websites_
 
 - [Codecademy][codecademy]
 - [Microsoft][microsoft]
@@ -91,11 +115,12 @@ I am a passionate software engineer and former electrician with a background in 
 </details>
 
 
-[codecademy]: https://www.codecademy.com/profiles/AnthonyCh.
-[codewars]: https://www.codewars.com/users/gitanthony
-[exercism]: https://exercism.org/profiles/anthonychavis
-[leetcode]: https://leetcode.com/anthonychavis/
-[microsoft]: https://learn.microsoft.com/en-us/users/anthony-1663/
+[codecademy]: https://www.codecademy.com/profiles/AnthonyCh. "external URL to Anthony's Codecademy profile"
+[codewars]: https://www.codewars.com/users/gitanthony "external URL to Anthony's Codewars profile"
+[exercism]: https://exercism.org/profiles/anthonychavis "external URL to Anthony's Exercism profile"
+[leetcode]: https://leetcode.com/anthonychavis/ "external URL to Anthony's LeetCode profile"
+[microsoft]: https://learn.microsoft.com/en-us/users/anthony-1663/ "external URL to Anthony's Microsoft Learn profile"
+
 [twitter]: https://twitter.com/gitanthony1
 
 <!-- [linkedin]: https://www.linkedin.com/in/anthony-chavis/ -->
