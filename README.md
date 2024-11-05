@@ -31,7 +31,7 @@ I am a passionate software engineer and former electrician with a background in 
 <h3>Event Schedule</h3>
 </summary>
 
-- [Event Schedule website](#https://artscapeschedule.netlify.app/ "external URL to the Event Schedule website") (_URL to external web page_)
+- [Event Schedule website](https://artscapeschedule.netlify.app/ "external URL to the Event Schedule website") (_URL to external web page_)
 - **Tech**
     - HUGO
         - _with my own HUGO "theme"_
