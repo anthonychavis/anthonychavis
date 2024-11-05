@@ -32,6 +32,7 @@ I am a passionate software engineer and former electrician with a background in 
 </summary>
 
 - [Event Schedule website](https://artscapeschedule.netlify.app/ "external URL to the Event Schedule website") (_URL to external web page_)
+    - [![Netlify Status](https://api.netlify.com/api/v1/badges/ab5d3273-53b0-4c2a-b023-aae363e94566/deploy-status)](https://app.netlify.com/sites/artscapeschedule/deploys)
 - **Tech**
     - HUGO
         - _with my own HUGO "theme"_
