@@ -112,6 +112,7 @@ _NOTE: the following URLs are to external websites_
 - [Codewars][codewars]
 - [Exercism][exercism]
 - [LeetCode][leetcode]
+- ISC<sup>2</sup>
 
 </details>
 
