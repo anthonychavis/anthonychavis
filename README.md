@@ -112,7 +112,7 @@ _NOTE: the following URLs are to external websites_
 - [Codewars][codewars]
 - [Exercism][exercism]
 - [LeetCode][leetcode]
-- ISC<sup>2</sup>
+- [Credly][credly]
 
 </details>
 
@@ -122,6 +122,7 @@ _NOTE: the following URLs are to external websites_
 [exercism]: https://exercism.org/profiles/anthonychavis "external URL to Anthony's Exercism profile"
 [leetcode]: https://leetcode.com/anthonychavis/ "external URL to Anthony's LeetCode profile"
 [microsoft]: https://learn.microsoft.com/en-us/users/anthony-1663/ "external URL to Anthony's Microsoft Learn profile"
+[credly]: https://www.credly.com/users/anthony-chavis.ab1d47d7 "external URL to Anthony's Credly profile"
 
 [twitter]: https://twitter.com/gitanthony1
 
